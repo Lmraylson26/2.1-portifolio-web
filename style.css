@@ -1,6 +1,10 @@
 *{
     background-color: #BB7E5D;
  }
+ h1{
+    position: relative;
+    left: 500px;
+ }
  a{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
  }
@@ -16,3 +20,20 @@
  strong{
     color: #DBB68F;
  }
+ #apresentacao{
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+ }
+ #apresentacao p, #apresentacao img{
+    margin: 0 15px 0 0;
+ }
+ img{
+    padding: 5px;
+    background-color: rgb(165, 248, 165);
+ }
+ ul li:nth-child(odd){
+    color:rgb(165, 248, 165);
+    
+ }
+ 
