@@ -1,0 +1,18 @@
+*{
+    background-color: #BB7E5D;
+ }
+ a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ h1, h3, h4{
+    font-family: 'Courier New', Courier, monospace;
+ }
+ p, li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ li{
+    font-size: 14px;
+ }
+ strong{
+    color: #DBB68F;
+ }
